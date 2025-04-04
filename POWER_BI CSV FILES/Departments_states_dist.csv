@@ -1,0 +1,88 @@
+department,location_state,count
+Accounting,Illinois,118
+Accounting,Indiana,74
+Accounting,Kentucky,53
+Accounting,Michigan,90
+Accounting,Ohio,2094
+Accounting,Pennsylvania,144
+Accounting,Wisconsin,53
+Auditing,Illinois,2
+Auditing,Ohio,35
+Auditing,Pennsylvania,1
+"Business Development",Illinois,48
+"Business Development",Indiana,42
+"Business Development",Kentucky,24
+"Business Development",Michigan,38
+"Business Development",Ohio,1051
+"Business Development",Pennsylvania,75
+"Business Development",Wisconsin,29
+Engineering,Illinois,187
+Engineering,Indiana,171
+Engineering,Kentucky,108
+Engineering,Michigan,172
+Engineering,Ohio,4284
+Engineering,Pennsylvania,256
+Engineering,Wisconsin,81
+"Human Resources",Illinois,67
+"Human Resources",Indiana,46
+"Human Resources",Kentucky,25
+"Human Resources",Michigan,46
+"Human Resources",Ohio,1155
+"Human Resources",Pennsylvania,69
+"Human Resources",Wisconsin,22
+Legal,Illinois,5
+Legal,Indiana,10
+Legal,Kentucky,4
+Legal,Michigan,7
+Legal,Ohio,199
+Legal,Pennsylvania,10
+Legal,Wisconsin,2
+Marketing,Illinois,22
+Marketing,Indiana,14
+Marketing,Kentucky,8
+Marketing,Michigan,15
+Marketing,Ohio,332
+Marketing,Pennsylvania,16
+Marketing,Wisconsin,3
+"Product Management",Illinois,19
+"Product Management",Indiana,16
+"Product Management",Kentucky,8
+"Product Management",Michigan,18
+"Product Management",Ohio,412
+"Product Management",Pennsylvania,27
+"Product Management",Wisconsin,12
+"Research and Development",Illinois,32
+"Research and Development",Indiana,26
+"Research and Development",Kentucky,23
+"Research and Development",Michigan,24
+"Research and Development",Ohio,649
+"Research and Development",Pennsylvania,51
+"Research and Development",Wisconsin,25
+Sales,Illinois,61
+Sales,Indiana,39
+Sales,Kentucky,36
+Sales,Michigan,46
+Sales,Ohio,1140
+Sales,Pennsylvania,78
+Sales,Wisconsin,26
+Services,Illinois,47
+Services,Indiana,42
+Services,Kentucky,21
+Services,Michigan,37
+Services,Ohio,1101
+Services,Pennsylvania,70
+Services,Wisconsin,19
+Support,Illinois,36
+Support,Indiana,22
+Support,Kentucky,14
+Support,Michigan,20
+Support,Ohio,598
+Support,Pennsylvania,30
+Support,Wisconsin,12
+Training,Illinois,54
+Training,Indiana,43
+Training,Kentucky,23
+Training,Michigan,37
+Training,Ohio,1094
+Training,Pennsylvania,65
+Training,Wisconsin,22
